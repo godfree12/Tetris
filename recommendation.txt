@@ -1,0 +1,4 @@
+jai une petite recomandation a faire sur la parti que jai vue, si quand tu fais le tab en 2d tu stocke des 
+CaseSimple au lieu des entier, on pourras le reutiliser pour mettre les cases presente dans les block une
+fois qu'elles sont à l'arret, et ainsi on peut detruire les blocs et laissé que les cases qui le composait.
+
